@@ -1,5 +1,4 @@
 flask
 wave
 pydub
-sqlite3
 ffmpeg
